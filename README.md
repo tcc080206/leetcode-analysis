@@ -28,13 +28,13 @@ Clone this repo into your AI tool's skill directory.
 ### Cursor
 
 ```bash
-git clone https://github.com/<your-username>/leetcode-analysis.git ~/.cursor/skills/leetcode-analysis
+git clone https://github.com/tcc080206/leetcode-analysis.git ~/.cursor/skills/leetcode-analysis
 ```
 
 ### Claude Code
 
 ```bash
-git clone https://github.com/<your-username>/leetcode-analysis.git ~/.claude/skills/leetcode-analysis
+git clone https://github.com/tcc080206/leetcode-analysis.git ~/.claude/skills/leetcode-analysis
 ```
 
 ### Verify installation / 驗證安裝
